@@ -3,7 +3,7 @@ package dataStructures;
 
 import java.util.Scanner;
 
-public class stack {
+public class Stack {
 	static Scanner scan = new Scanner(System.in);
 
 	static int pointer = 0;
